@@ -1,0 +1,10 @@
+title,description
+Setup Dev Environment,Configure the development environment for the project.
+Research Authentication Methods,Investigate and document authentication methods for secure login.
+Design Database Schema,Create a relational database schema based on project requirements.
+Implement User Signup,Develop a user signup feature with email verification.
+Create API Documentation,Write comprehensive API documentation for all endpoints.
+Build User Dashboard,Develop a dashboard to display user-specific data and analytics.
+Optimize Database Queries,Review and optimize slow-performing database queries.
+Implement JWT Authentication,Secure API endpoints with JWT-based authentication.
+Design Landing Page,Create an engaging and responsive landing page for the platform.
